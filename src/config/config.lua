@@ -1,0 +1,1 @@
+URL_API = "https://api.hgbrasil.com/weather?key=SUA-CHAVE&user_ip=remote"
