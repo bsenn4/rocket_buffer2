@@ -6,7 +6,7 @@ dados de previsão do tempo para cidades no Brasil
 
 Task List:
 1. Criar uma função onde o jogador da o comando para pegar as informações
-do clima da cidade atual do jogador.
+climaticas da cidade atual do cliente (jogador).
 2. Uma tela no lado cliente para listar as informações do clima.
 
 
